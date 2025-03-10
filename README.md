@@ -1,5 +1,18 @@
 # Fastify Starter
 
+A starter project for Fastify with Bun, TypeScript and Prettier.
+
+## Features
+
+- Fastify
+- TypeScript
+- Prettier
+- Bun
+- Config through `.env` files or ENV variables
+- Logger with Pino
+- Healthcheck and status routes
+- Dockerfile (coming)
+
 ## Local Development
 
 This project uses [Bun](https://bun.sh), which can be installed with:
